@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mrittur Shohor
+
+This log tracks the cryptographic history and versioning for the song **Mrittur Shohor** (mrittur-shohor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:22:26.589258 | `v1` | `dfc88bbe48936d57647a2424149bd6945229c924433d4c63fd2d8b71a156d211` | `8c49c3bf402cb372b885b95d2d6a0edaa09dd1a2d72367e413b152b36a25cc4d` | `2026-05-08_mrittur-shohor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
